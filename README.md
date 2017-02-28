@@ -1,5 +1,5 @@
 # hello-world
-Just a testing repository
+Jus
 ////
 ------
 Tw here,i like ios programming.
